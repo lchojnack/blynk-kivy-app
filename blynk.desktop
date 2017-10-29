@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Blynk
+Exec=/home/lukas/Projects/blynk-app/blynk.py
+Icon=/home/lukas/Projects/blynk-app/blynk_outline_logo.png
+Terminal=false
+Type=Application
